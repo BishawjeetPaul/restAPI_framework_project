@@ -1,0 +1,19 @@
+{"customerNumber":1001,"customerName":"Atelier graphique","customerLastName":"Schmitt","customerFirstName":"Carine","customerEmailAddress":"carianschmitt@gmail.com","phone":"7722689565","addressLine1":"Rue","addressLine2":"Royale","city":"Otages","state":"Nantes","country":"France","postalCode":223656}
+
+{"customerNumber":1002,"customerName":"Signal Gift Stores","customerLastName":"King","customerFirstName":"Jean","customerEmailAddress":"kingJean@rediffmail.com","phone":"7025551838","addressLine1":"8489 Strong St.","addressLine2":"Boltpark","city":"Las Vegas","state":"NV","country":"USA","postalCode":423365}
+
+{"customerNumber":1003,"customerName":"Australian Collectors, Co.","customerLastName":"Ferguson","customerFirstName":"Peter","customerEmailAddress":"peterferguson@gmail.com","phone":"0395204555","addressLine1":"636 St Kilda Road","addressLine2":"Level 3","city":"Melbourne","state":"Victoria","country":"Australia","postalCode":123365}
+
+{"customerNumber":1004,"customerName":"La Rochelle Gifts","customerLastName":"Labrune","customerFirstName":"Janine","customerEmailAddress":"labrunejanine@rediffmail.com","phone":"6533224695","addressLine1":"rue des","addressLine2":"Cinquante Otages","city":"Block Street","state":"Nantes","country":"France","postalCode":326633}
+
+{"customerNumber":1005,"customerName":"Baane Mini Imports","customerLastName":"Bergulfsen","customerFirstName":"Jonas","customerEmailAddress":"bergulfsenjonas@hotmail.com","phone":"0798369555","addressLine1":"gate 78","addressLine2":"Erling Skakkes","city":"Bypass","state":"Stavern","country":"Norway","postalCode":785669}
+
+{"customerNumber":1006,"customerName":"Mini Gifts Distributors Ltd.","customerLastName":"Nelson","customerFirstName":"Susan","customerEmailAddress":"susanNelson@outlook.com","phone":"4155551450","addressLine1":"5677/D","addressLine2":"Strong St.","city":"San Rafael","state":"CA","country":"USA","postalCode":426636}
+
+{"customerNumber":1007,"customerName":"Havel & Zbyszek Co","customerLastName":"Piestrzeniewicz","customerFirstName":"Zbyszek","customerEmailAddress":"piestrzeniewicz@hotmail.com","phone":"2664275556","addressLine1":"ul.","addressLine2":"68/DOT","city":"Filtrowa","state":"Warszawa","country":"Poland","postalCode":113265}
+
+{"customerNumber":1008,"customerName":"Porto Imports Co.","customerLastName":"de Castro","customerFirstName":"Isabel","customerEmailAddress":"castroisabel@gmail.com","phone":"1933565555","addressLine1":"149 Spinnaker Dr.","addressLine2":"149 Spinnaker Dr.","city":"Lisboa","state":"Bergen","country":"Portugal","postalCode":172233}
+
+{"customerNumber":1009,"customerName":"King Kong Collectables, Co.","customerLastName":"Gao","customerFirstName":"Mike","customerEmailAddress":"mikegoa.11@outlook.com","phone":"5222511555","addressLine1":"Bank of China Tower","addressLine2":"1 Garden Road","city":"Central Hong Kong","state":"","country":"Hong Kong","postalCode":162136}
+
+{"customerNumber":1010,"customerName":"giftsbymail.co.uk","customerLastName":"Bennett","customerFirstName":"Helen","customerEmailAddress":"helenbennet@rediffmail.com","phone":"1985558888","addressLine1":"Garden House","addressLine2":"Crowther Way 23","city":"Cowes","state":"Isle of Wight","country":"UK","postalCode":154852}
